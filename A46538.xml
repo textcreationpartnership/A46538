@@ -1,0 +1,165 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A proclamation, concerning the persons who are lyable in the payment of the annuity of teinds, their purchasing the same from His Majesty, and the collection of the arrears thereof remaining unpayed James R.</title>
+            <author>England and Wales. Sovereign (1685-1688 : James II)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1688</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A46538</idno>
+            <idno type="STC">Wing J318</idno>
+            <idno type="STC">ESTC R18905</idno>
+            <idno type="EEBO-CITATION">12350490</idno>
+            <idno type="OCLC">ocm 12350490</idno>
+            <idno type="VID">59970</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A46538)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 59970)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 869:22)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A proclamation, concerning the persons who are lyable in the payment of the annuity of teinds, their purchasing the same from His Majesty, and the collection of the arrears thereof remaining unpayed James R.</title>
+                  <author>England and Wales. Sovereign (1685-1688 : James II)</author>
+                  <author>James II, King of England, 1633-1701.</author>
+                  <author>Loudoun, James Campbell, Earl of, d. 1684.</author>
+                  <author>Loudoun, John Campbell, Earl of, 1598-1663.</author>
+                  <author>Livingstoun, James.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed by the heir of Andrew Anderson ...,</publisher>
+                  <pubPlace>Edinburgh :</pubPlace>
+                  <date>1688.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+                  <note>Broadside.</note>
+                  <note>At end of text: Given at our court at Whitehall, the 25 day of May, 1688.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Taxation --  Great Britain --  Law and legislation.</term>
+               <term>Tax evasion --  Great Britain --  Early works to 1800.</term>
+               <term>Broadsides</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-11</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2010-11</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proclamation">
+            <pb facs="tcp:59970:1"/>
+            <head>
+               <figure>
+                  <figDesc>Royal seal</figDesc>
+                  <q>DIEV ET MON DROIT</q>
+               </figure>
+            </head>
+            <head>A PROCLAMATION, <hi>Concerning the perſons who are lyable in the payment of the Annuity of Teinds, their purchaſing the ſame from His Majeſty, and the Collection of the Arrears thereof remaining unpayed.</hi>
+            </head>
+            <opener>
+               <signed>JAMES R.</signed>
+            </opener>
+            <opener>
+               <signed>
+                  <seg rend="decorInit">J</seg>AMES the Seventh by the Grace of GOD, King of <hi>Scotland, England, France, &amp; Ireland,</hi> Defender of the Faith <hi>&amp;c.</hi>
+               </signed>
+               <salute>To all and ſundry our good Subjects whom theſe Preſents do, or may concern, Greeting.</salute>
+            </opener>
+            <p>Whereas by the 15 Act of the Parliament held by King <hi>Charles</hi> the firſt, Our Royal Father (of ever Glorious Memory) in the year 1633: There was granted unto, and eſtabliſhed upon Him, and His Royal Succeſſors, a conſtant yearly Rent, and Duty payable out of the Teinds of Our ancient Kingdom of Scotland, commonly called, the Annuity of Teinds, in the quantity, and to be uplifted in manner ſpecified therein: By which Act, it is alſo declared, that the faid Annuity of Teinds, ſhould not be annexed to Our Crown; But that We may diſpoſe thereof in whole or in part, at Our Pleaſure. Likeas afterwards Our ſaid Royal Father was pleaſed to diſpoſe of the ſame. Firſt in favours of the deceaſed <hi>James Livingſtoun</hi> for ſecurity and payment un<g ref="char:EOLhyphen"/>Him, of a certain ſum of money ſpecified in his Gift; And thereafter in favours of the deceaſed <hi>John Earl</hi> of <hi>Lowdoun,</hi> upon a Tranſaction and Agree<g ref="char:EOLhyphen"/>ment made betwixt Him, and the ſaid <hi>James Livingſton</hi>; Which Tranſaction having been ratified by Our ſaid Royal Father, and a new Gift and Commiſſion granted thereupon to the ſaid <hi>Earl,</hi> as come in the place of the ſaid <hi>James Livingſtoun,</hi> the ſaid <hi>Earl</hi> of <hi>Lowdoun</hi> did by vertue there<g ref="char:EOLhyphen"/>of, and the Power therein contained from the year 1642, untill the interruption of the Engliſh Invaſion, not only intromet with the ſaid Annuities, for all years and terms thereof then reſting unpayed; But alſo did make ſale of the Heretable Right of the ſame in many Shires, and Places, to the raiſing of great and conſiderable ſums of money. Likeas (paſſing by what might have been intrometted with, and diſpoſed upon, of the ſaid Annuities by the ſaid Earl, during the Engliſh Uſurpation). Our late deareſt Royal Brother (of ever bleſſed memory) was pleaſed in the year 1661 ſoon after His happy Reſtauration, to grant a new Gift, and Commiſſion to the ſaid Earl, For proſecuting and making ſale of the reſt of the ſaid Annuities; Which having been interrupted by that Earl's Death, was again renewed and granted unto the deceaſed <hi>James</hi> Earl of <hi>Lowdoun</hi> his Son who by vertue thereof, did both intromet, and make many Sales, until the Month of <hi>April</hi> 1674. That Our ſaid Royal Brother thought fit, by His Proclamation of Indemnity, (then granted) to ſtop, and recal all the ſaids Gilts and Commiſſions until the aforeſaid Earls and their Repreſentatives ſhould make juſt Compt and Reckoning of their whole Intro<g ref="char:EOLhyphen"/>miſſions; And alſo freely to diſcharge all Perſons lyable in payment of the ſaid Annuities, of all Arrears thereof preceeding the year 1660. As the foreſaid Proclamation more fully bears. And ſeeing that neither the ſaid <hi>James</hi> Earl of <hi>Lowdoun</hi> during his own Lifetime, or any for him, ſince his deceaſe have hitherto theſe fourteen years bypaſt, made any Compt or Reckoning of their foreſaid Intromiſſions, and that the ſaid Annuities do not only continually run on as a growing burden on all our good Subjects, lyable in payment there<g ref="char:EOLhyphen"/>of, who have not yet bought the ſame, but alſo have now for theſe twenty eight years paſt, lyen over unprofitable and periſhing to Us, to Our great prejudice. And We being withall re<g ref="char:EOLhyphen"/>ſolved to have the Reſts of the ſaid Annuity, to be Collected and Received with all convenient diligence, and to have the Remains of the ſaid Annuity (which do ſo undoubtedly pertain unto Us, and whereof the greater part is already purchaſed) fully cleared, and Our ſaid Subjects who have not as yet purchaſed, totally exonered of the burden of the ſaid Annuity in all time coming; And that, at ſuch a favourable rate as my evidently diſcover, that We do intend their Liberation and Eaſe, more than the ſatisfaction of Our own juſt Right. It is therefore Our Royal Will and Pleaſure, that the Reſts of the ſaid Annuity, not as yet received nor taken up by vertue of the foreſaid Tranſaction, Gifts, and Com<g ref="char:EOLhyphen"/>miſſions be forthwith Collected and brought in to Our Treaſury for Our uſe and behove; And that the Remains of the ſaid Annuity and Heretable Right thereof (in ſo far as the ſame is not already truly Sold and Diſponed to the reſpective Purchaſers) be forthwith offered to Sale; And for that effect, that due and lawful Intimation hereof be made unto all Perſons lyable in payment of the ſaid Annuity of Teinds, who have not yet purchaſed as ſaid is; To the end they may come and Treat at any time betwixt this and the firſt day of <hi>August,</hi> One thouſand ſix hundred and eighty Nine, with the Lords Commiſſioneres of Our Treaſury at Edinburgh, or where it shall happen to them to be for the time, Bringing with them true and exact Rentals of their whole Rents, as well Stock as Teind, which they ſhall be obliged to atteſt and confirm to be ſuch by their ſolemn Oath, to be taken by the ſaid Lords Commiſſioners, To the effect that the Rate and Price at which We are willing to fell the ſame, may be thereby regulated, and eſtabliſhed. And for the greater encouragement and full ſecurity of all thoſe who ſhall come betwixt this and the aforeſaid day, and imbrace this Our Offer, We do hereby further Declare, that it is Our Royal Will and Pleaſure that the heretable Right of the ſaid Annuity with good and valid Diſpoſitions thereof, together with full and ſufficient Diſcharges of all Arrears of the ſame, (when Collected and Received) that were reſting unpaid, preceeding the Date of the foreſaid Diſpoſitions, ſhall be made over, Subſcribed and Delivered by the ſaids Lords Commiſſioners of Our Treaſury to the Perſons lyable to the ſaid Annuity, and willing to purchaſe the ſame, for the Price, and at the rate of twenty years Purchaſe (beſides the Beſts and Ar<g ref="char:EOLhyphen"/>rears of the ſaid Annuity) to be inſtantly paid into the ſaids Lords Commiſſioners of our Treaſury, or whom they ſhall think fit to appoint for receiving the ſame; Which Diſpoſitions and Diſcharges being Subſcribed and Delivered, as ſaid is, and Regiſtrated in the Books of Our Exchequer there, ſhal be to the ſaid Purchaſers a ſure and unqueſti<g ref="char:EOLhyphen"/>onable Right and Exoneration at all hands in all time coming. And ſeing We have been pleaſed to condeſcend unto ſo low a rate, for granting the ſaids Diſpoſitions, We cannot but expect, that all Perſons concerned, will be ſo much convinced of their own Intereſt and Eaſe by this Our Offer, as to comply with, and imbrace the ſame with all readineſſe: But becauſe We do likewiſe intend to have this Our Offer Real and Effectual without any further delay; and Do alſo expect that the ſaid Purchaſers ſhall deal Truly and Honeſtly with Us, as We are willing to deal favourably with them. Therefore We Do hereby in the firſt place expreſly Declare, that if any Purchaſer ſhal behave ſo diſingenuouſly, as not to give up a True and Exact Rental of His Rents, as well Stock as Teind in manner above required, that then, and in caſe it ſhal be found at any time with<g ref="char:EOLhyphen"/>in two years after making of the Bargain, that the aforeſaid Rental was given up a fourth part ſhort of the true Value, the Diſpoſition to be granted thereupon, ſhall be void and null, and the fraudulent Concealer made liable for his whole Annuities, as well bygone as in time coming, and perpetually excluded from purchaſing the Right thereof: Pro<g ref="char:EOLhyphen"/>viding, Nevertheleſſe that if the ſaid Rental that not be queſtioned, and the Falſe hood thereof diſcovered within the ſpace of the two years above-prefixed, then the ſame ſhall be for ever thereafter held good and juſt, and never more quarellable. And in the next place, We Do by theſe Preſents plainly certify all and every one of the Parties having In<g ref="char:EOLhyphen"/>tereſt, who ſhal not accept of this Our Gracious Offer betwixt this and the foreſaid day already prefixed, that then, and in that caſe they ſhall for ever thereafter have no Bene<g ref="char:EOLhyphen"/>fite thereof, nor yet have the like Offer made unto them in time coming, but that We will immediatly after elapſing of the ſaid day, diſpofe upon the ſaid Annuities as well for the time bygone, as in time coming, by granting Commiſſions for Collecting and Ingathering the ſame, or otherwiſe as We ſhall ſee cauſe. And to the end that all our Sub<g ref="char:EOLhyphen"/>jects (eſpecially they who are concerned in the Premiſſes) may have notice of this our Royal Will and Pleaſure, We Do hereby Command Our Lyon King at Arms, and his Brethren Heraulds, Macers, Purſevants, and Meſſengers at Arms, to make timeous Proclamation thereof at the Mercat Croſs of <hi>Edinburgh.</hi> For all which, theſe Preſents ſhall be to all Perſons whatſoever who may be therein any way concerned, a ſufficient Warrant.</p>
+            <closer>
+               <dateline>Given at our Court at <hi>Whitehall,</hi> 
+                  <date>the 25 day of <hi>May,</hi> 1688. and of Our Reign, the 4th year.</date>
+               </dateline>
+               <signed>By His Majeſties Command, <hi>MELFORT.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="order_to_publish">
+            <opener>
+               <dateline>Edinburgh, <date>The third day of <hi>July</hi> 1688.</date>
+               </dateline>
+            </opener>
+            <p>His <hi>Majeſties</hi> Royal Proclamation above-written being read in Council, was by Order Publiſhed, and is Recorded in their Books, by me</p>
+            <closer>
+               <signed>
+                  <hi>COL. McKENZIE,</hi> Cls. Sti. Concilii.</signed>
+            </closer>
+            <closer>GOD Save the KING.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Edinburgh, Printed <hi>by the Heir of Andrew</hi> Anderſon, <hi>Printer to His moſt Sacred Majeſty, Anno</hi> Dom. 1688.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
